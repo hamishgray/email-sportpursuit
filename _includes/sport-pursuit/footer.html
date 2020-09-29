@@ -1,0 +1,42 @@
+
+<!-- footer -->
+<table {{table.outer}}>
+  <tr>
+    <td bgcolor="{{color.black}}" align="center">
+
+      <!--[if (gte mso 9)|(IE)]>
+      <table align="center" border="0" cellspacing="0" cellpadding="0" width="{{layout.width.lg}}">
+      <tr>
+      <td align="center" valign="top" width="{{layout.width.lg}}">
+      <![endif]-->
+      <table {{table.inner}}>
+        <tr>
+          <td align="center" style="{{spacing.vpad.lg}} {{spacing.hpad.sm}}">
+
+            <a href="{{locale.general.sportpursuit.footer-logo-link}}" style="{{text.md}}">
+              <img class="logo-partner" alt="SportPursuit Logo" src="img/L..sport-pursuit.png" width="262" style="display:block;">
+            </a>
+            {% include element/space.html height="15" %}
+            <table {{table.fluid}}>
+              <tr>
+                <td align="center" class="text-md" style="{{default.text.md}} color: {{color.white}};">
+                  {{locale.general.sportpursuit.footer-copy}}
+                </td>
+              </tr>
+            </table>
+            {% include element/space.html height="15" %}
+            {% include element/button.html scale="sm" label=locale.general.sportpursuit.footer-cta-label link=locale.general.sportpursuit.footer-cta-link %}
+
+          </td>
+        </tr>
+      </table>
+      <!--[if (gte mso 9)|(IE)]>
+      </td>
+      </tr>
+      </table>
+      <![endif]-->
+
+    </td>
+  </tr>
+</table>
+

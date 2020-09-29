@@ -1,0 +1,455 @@
+- id: new-balance
+  link: https://www.sportpursuit.com/products?bid=220&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-NewBalance%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-18&utm_source=partnership
+  image: B..new-balance.jpg
+  content:
+    - title: New Balance
+      style: md
+    - paragraph: Unleash your speed.
+      style: xs
+    - space: 0
+    - text-link: Save up to 55%
+      scale: xxs
+
+- id: rapha
+  link: https://www.sportpursuit.com/products?bid=1617&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Rapha%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-2&utm_source=partnership
+  image: B..rapha.jpg
+  content:
+    - title: Rapha
+      style: md
+    - paragraph: Redefining comfort, performance, and style.
+      style: xs
+    - space: 0
+    - text-link: Save up to 60%
+      scale: xxs
+
+- id: deuter
+  link: https://www.sportpursuit.com/products?bid=435&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Deuter%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-3&utm_source=partnership
+  image: B..deuter.jpg
+  content:
+    - title: Deuter
+      style: md
+    - paragraph: Building the perfect rucksacks since 1898.
+      style: xs
+    - space: 0
+    - text-link: Save up to 53%
+      scale: xxs
+
+- id: haglofs
+  link: https://www.sportpursuit.com/products?bid=104&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Haglofs%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-4&utm_source=partnership
+  image: B..haglofs.jpg
+  content:
+    - title: Haglofs
+      style: md
+    - paragraph: Sustainable outdoor clothing.
+      style: xs
+    - space: 0
+    - text-link: Save up to 68%
+      scale: xxs
+
+- id: 2xu
+  link: https://www.sportpursuit.com/products?bid=131&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-2XU%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-17&utm_source=partnership
+  image: B..2xu.jpg
+  content:
+    - title: 2XU
+      style: md
+    - paragraph: Human performance multiplied.
+      style: xs
+    - space: 0
+    - text-link: Save up to 72%
+      scale: xxs
+
+- id: sportpursuit
+  link: https://www.sportpursuit.com/sales/clearance?st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-SportPursuit%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-6&utm_source=partnership
+  image: B..sportpursuit.jpg
+  content:
+    - title: Clearance
+      style: md
+    - paragraph: Unbeatable prices for your sport.
+      style: xs
+    - space: 0
+    - text-link: Save up to 70%
+      scale: xxs
+
+- id: marmot
+  link: https://www.sportpursuit.com/products?bid=33&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Marmot%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-13&utm_source=partnership
+  image: B..marmot.jpg
+  content:
+    - title: Marmot
+      style: md
+    - paragraph: Performance outdoor equipment.
+      style: xs
+    - space: 0
+    - text-link: Save up to 64%
+      scale: xxs
+
+- id: pyua
+  link: https://www.sportpursuit.com/products?bid=213&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Pyua%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-8&utm_source=partnership
+  image: B..pyua.jpg
+  content:
+    - title: Pyua
+      style: md
+    - paragraph: Sustainable designs for winter and summer.
+      style: xs
+    - space: 0
+    - text-link: Save up to 65%
+      scale: xxs
+
+- id: arcteryx
+  link: https://www.sportpursuit.com/products?bid=919&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Arcteryx%24s-NoCat%24loc-M%24x-UK_email7_banner%24p-15&utm_source=partnership
+  image: B..arcteryx.jpg
+  content:
+    - title: Arc'teryx
+      style: md
+    - paragraph: Iconic outdoor equipment
+      style: xs
+    - space: 0
+    - text-link: Save up to 58%
+      scale: xxs
+
+- id: vivobarefoot
+  link: https://www.sportpursuit.com/products?bid=13&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Vivobarefoot%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-10&utm_source=partnership
+  image: B..vivobarefoot.jpg
+  content:
+    - title: Vivobarefoot
+      style: md
+    - paragraph: Move how nature intended.
+      style: xs
+    - space: 0
+    - text-link: Save up to 50%
+      scale: xxs
+
+- id: salomon
+  link: https://www.sportpursuit.com/products?bid=627&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Salomon%24s-NoCat%24loc-M%24x-UK_email7_banner%24p-12&utm_source=partnership
+  image: B..salomon.jpg
+  content:
+    - title: Salomon
+      style: md
+    - paragraph: Challenge yourself in the great outdoors.
+      style: xs
+    - space: 0
+    - text-link: Save up to 70%
+      scale: xxs
+
+- id: craft
+  link: https://www.sportpursuit.com/products?bid=663&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Craft%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-12&utm_source=partnership
+  image: B..craft.jpg
+  content:
+    - title: Craft
+      style: md
+    - paragraph: Premium performance sportswear.
+      style: xs
+    - space: 0
+    - text-link: Save up to 70%
+      scale: xxs
+
+- id: mammut
+  link: https://www.sportpursuit.com/products?bid=1961&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Mammut%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-18&utm_source=partnership
+  image: B..mammut.jpg
+  content:
+    - title: Mammut
+      style: md
+    - paragraph: Equipped for the outdoors
+      style: xs
+    - space: 0
+    - text-link: Save up to 63%
+      scale: xxs
+
+- id: odlo
+  link: https://www.sportpursuit.com/products?bid=130&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Odlo%24s-NoCat%24loc-M%24x-UK_email7_banner%24p-7&utm_source=partnership
+  image: B..odlo.jpg
+  content:
+    - title: Odlo
+      style: md
+    - paragraph: Functional clothing for every occasion.
+      style: xs
+    - space: 0
+    - text-link: Save up to 60%
+      scale: xxs
+
+- id: cube
+  link: https://www.sportpursuit.com/products?bid=40&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-CUBE%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-15&utm_source=partnership
+  image: B..cube.jpg
+  content:
+    - title: CUBE
+      style: md
+    - paragraph: Quality cycling clothing and equipment.
+      style: xs
+    - space: 0
+    - text-link: Save up to 56%
+      scale: xxs
+
+- id: spyder
+  link: https://www.sportpursuit.com/products?bid=120&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Spyder%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-16&utm_source=partnership
+  image: B..spyder.jpg
+  content:
+    - title: Spyder
+      style: md
+    - paragraph: High performance premium skiwear.
+      style: xs
+    - space: 0
+    - text-link: Save up to 72%
+      scale: xxs
+
+- id: alpine-pro
+  link: https://www.sportpursuit.com/products?bid=1083&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-AlpinePro%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-17&utm_source=partnership
+  image: B..alpine-pro.jpg
+  content:
+    - title: Alpine Pro
+      style: md
+    - paragraph: Focused on adventure.
+      style: xs
+    - space: 0
+    - text-link: Save up to 80%
+      scale: xxs
+
+- id: sigg
+  link: https://www.sportpursuit.com/products?bid=791&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Sigg%24s-NoCat%24loc-M%24x-UK_email7_banner%24p-14&utm_source=partnership
+  image: B..sigg.jpg
+  content:
+    - title: Sigg
+      style: md
+    - paragraph: High quality water bottles since 1908.
+      style: xs
+    - space: 0
+    - text-link: Save up to 50%
+      scale: xxs
+
+- id: poc
+  link: https://www.sportpursuit.com/products?bid=251&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-POC%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-19&utm_source=partnership
+  image: B..poc.jpg
+  content:
+    - title: POC
+      style: md
+    - paragraph: Cycling & snow clothing and helmets.
+      style: xs
+    - space: 0
+    - text-link: Save up to 67%
+      scale: xxs
+
+- id: musto
+  link: https://www.sportpursuit.com/products?bid=274&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Musto%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-3&utm_source=partnership
+  image: B..musto.jpg
+  content:
+    - title: Musto
+      style: md
+    - paragraph: Designed for an outdoor lifestyle.
+      style: xs
+    - space: 0
+    - text-link: Save up to 70%
+      scale: xxs
+
+- id: rab
+  link: https://www.sportpursuit.com/products?bid=923&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Rab%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-17&utm_source=partnership
+  image: B..rab.jpg
+  content:
+    - title: Rab
+      style: md
+    - paragraph: Rugged, high-performance outdoor kit
+      style: xs
+    - space: 0
+    - text-link: Save up to 63%
+      scale: xxs
+
+- id: smartwool
+  link: https://www.sportpursuit.com/products?bid=60&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Smartwool%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-2&utm_source=partnership
+  image: B..smartwool.jpg
+  content:
+    - title: Smartwool
+      style: md
+    - paragraph: Breathable, comfortable and high quality.
+      style: xs
+    - space: 0
+    - text-link: Save up to 67%
+      scale: xxs
+
+- id: millican
+  link: https://www.sportpursuit.com/products?bid=2646&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Millican%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-6&utm_source=partnership
+  image: B..millican.jpg
+  content:
+    - title: Millican
+      style: md
+    - paragraph: Sustainable & durable travel bags
+      style: xs
+    - space: 0
+    - text-link: Save up to 55%
+      scale: xxs
+
+- id: sherpa
+  link: https://www.sportpursuit.com/products?bid=1085&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Sherpa%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-6&utm_source=partnership
+  image: B..sherpa.jpg
+  content:
+    - title: Sherpa
+      style: md
+    - paragraph: Ethical adventure gear
+      style: xs
+    - space: 0
+    - text-link: Save up to 63%
+      scale: xxs
+
+- id: oakley
+  link: https://www.sportpursuit.com/products?bid=133&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Oakley%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-7&utm_source=partnership
+  image: B..oakley.jpg
+  content:
+    - title: Oakley
+      style: md
+    - paragraph: Look good, feel good.
+      style: xs
+    - space: 0
+    - text-link: Save up to 68%
+      scale: xxs
+
+- id: sups
+  link: https://www.sportpursuit.com/products?bid=1999%2C2399%2C2011&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-SUPS%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-8&utm_source=partnership
+  image: B..sups.jpg
+  content:
+    - title: Stand-Up Paddleboards
+      style: md
+    - paragraph: Enjoy the water
+      style: xs
+    - space: 0
+    - text-link: Save up to 45%
+      scale: xxs
+
+- id: oneill
+  link: https://www.sportpursuit.com/products?bid=735&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-ONeill%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-9&utm_source=partnership
+  image: B..oneill.jpg
+  content:
+    - title: O'Neill
+      style: md
+    - paragraph: Style and performance for summer.
+      style: xs
+    - space: 0
+    - text-link: Save up to 65%
+      scale: xxs
+
+- id: j-lindeberg
+  link: https://www.sportpursuit.com/products?bid=1818&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-JLindeberg%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-4&utm_source=partnership
+  image: B..j-lindeberg.jpg
+  content:
+    - title: J.Lindeberg
+      style: md
+    - paragraph: Premium golf apparel.
+      style: xs
+    - space: 0
+    - text-link: Save up to 70%
+      scale: xxs
+
+- id: protest
+  link: https://www.sportpursuit.com/products?bid=1812&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Protest%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-11&utm_source=partnership
+  image: B..protest.jpg
+  content:
+    - title: Protest
+      style: md
+    - paragraph: Design-led summer sportswear
+      style: xs
+    - space: 0
+    - text-link: Save up to 66%
+      scale: xxs
+
+- id: bodyglove
+  link: https://www.sportpursuit.com/products?bid=32&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-BodyGlove%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-12&utm_source=partnership
+  image: B..bodyglove.jpg
+  content:
+    - title: Body Glove
+      style: md
+    - paragraph: Swim & active wear born in the USA.
+      style: xs
+    - space: 0
+    - text-link: Save up to 63%
+      scale: xxs
+
+- id: garmin
+  link: https://www.sportpursuit.com/products?bid=95&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Garmin%24s-NoCat%24loc-M%24x-UK_email7_banner%24p-11&utm_source=partnership
+  image: B..garmin.jpg
+  content:
+    - title: Garmin
+      style: md
+    - paragraph: The ultra multisport GPS watch
+      style: xs
+    - space: 0
+    - text-link: Save up to 38%
+      scale: xxs
+
+- id: underarmour
+  link: https://www.sportpursuit.com/products?bid=85&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-UnderArmour%24s-NoCat%24loc-M%24x-UK_email7_banner%24p-12&utm_source=partnership
+  image: B..underarmour.jpg
+  content:
+    - title: Under Armour
+      style: md
+    - paragraph: Empowering athletes everywhere
+      style: xs
+    - space: 0
+    - text-link: Save up to 65%
+      scale: xxs
+
+- id: asics
+  link: https://www.sportpursuit.com/products?bid=39&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Asics%24s-NoCat%24loc-M%24x-UK_email7_banner%24p-10&utm_source=partnership
+  image: B..asics.jpg
+  content:
+    - title: Asics
+      style: md
+    - paragraph: Take your performance to the next level.
+      style: xs
+    - space: 0
+    - text-link: Save up to 60%
+      scale: xxs
+
+- id: isobaa
+  link: https://www.sportpursuit.com/products?bid=1512&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Isobaa%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-2&utm_source=partnership
+  image: B..isobaa.jpg
+  content:
+    - title: Isobaa
+      style: md
+    - paragraph: Luxurious and natural merino apparel
+      style: xs
+    - space: 0
+    - text-link: Save up to 65%
+      scale: xxs
+
+- id: le-chameau
+  link: https://www.sportpursuit.com/products?bid=1896&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-LeChameau%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-5&utm_source=partnership
+  image: B..le-chameau.jpg
+  content:
+    - title: Le Chameau
+      style: md
+    - paragraph: Style for the countryside
+      style: xs
+    - space: 0
+    - text-link: Save up to 61%
+      scale: xxs
+
+- id: hunter
+  link: https://www.sportpursuit.com/products?bid=633&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Hunter%24s-NoCat%24loc-A%24x-UK_email7_banner%24p-1&utm_source=partnership
+  image: B..hunter.jpg
+  content:
+    - title: Hunter
+      style: md
+    - paragraph: Iconic British heritage footwear
+      style: xs
+    - space: 0
+    - text-link: Save up to 55%
+      scale: xxs
+
+- id: red-bull
+  link: https://www.sportpursuit.com/products?bid=2227&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-RedBullSpect%24s-NoCat%24loc-M%24x-UK_email7_banner%24p-9&utm_source=partnership
+  image: B..red-bull.jpg
+  content:
+    - title: Red Bull Spect
+      style: md
+    - paragraph: Innovative sunglasses made by athletes, for athletes.
+      style: xs
+    - space: 0
+    - text-link: Save up to 70%
+      scale: xxs
+
+- id: osprey
+  link: https://www.sportpursuit.com/products?bid=670&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Osprey%24s-NoCat%24loc-M%24x-UK_email7_banner%24p-16&utm_source=partnership
+  image: B..osprey.jpg
+  content:
+    - title: Osprey
+      style: md
+    - paragraph: Making your journey as comfortable as can be.
+      style: xs
+    - space: 0
+    - text-link: Save up to 51%
+      scale: xxs

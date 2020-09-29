@@ -1,0 +1,40 @@
+
+##################################################################################################
+# United Kingdom
+#
+
+sportpursuit:
+  footer-logo-link: https://www.sportpursuit.com/?st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-SportPursuit%24s-NoCat%24loc-A%24x-UK_email7_footerlogo&utm_source=partnership
+  footer-copy: With SportPursuit you’ll save up to 70% on essential kit to keep you moving at home. Enjoy online gym classes and home workouts even more with the best equipment and sportswear.
+  footer-cta-label: Shop now
+  footer-cta-link: https://www.sportpursuit.com/products?st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-SportPursuit%24s-NoCat%24loc-A%24x-UK_email7_footercta&utm_source=partnership
+
+offer:
+  cta: View sale
+  currency: £
+  from: From
+
+link:
+  current-sales: https://www.secretescapes.com/current-sales
+  contact: https://www.secretescapes.com/contact
+  faq: https://www.secretescapes.com/faq
+  terms-and-conditions: https://www.secretescapes.com/terms-and-conditions
+  privacy-policy: https://www.secretescapes.com/privacy-policy
+  subscriptions: http://www.secretescapes.com/your-subscriptions
+
+footer:
+  promo: "Unbeatable savings on luxury hotels and holidays"
+  promo-button: "See current sales"
+  best-wishes: "Best wishes from Secret Escapes"
+  faq: "Any questions? See our FAQs here."
+  quicklinks:
+    view-online: "View online"
+    fewer-emails: "Get fewer emails"
+    unsubscribe: "Unsubscribe"
+  partnership: When we’re not curating luxury escapes, we like to keep an eye out for promotions we think you’ll love – like this one. This email was written by our editorial team in partnership with
+  legal:
+    - paragraph: >
+        Clicking our emails will log you into Secret Escapes. To tell friends about the sales it's best to use the share buttons on the site. To get in contact, please access <a href="https://www.secretescapes.com/contact" style="font-weight: 600; text-decoration: none; color: #5B5D67;">secretescapes.com/contact</a>.
+    - paragraph: >
+        England &amp; Wales Company No. <a href="#" style="text-decoration: none; color: #5B5D67;">07026107</a>
+

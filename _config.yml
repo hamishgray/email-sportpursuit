@@ -1,0 +1,18 @@
+# Build settings
+markdown: kramdown
+exclude: [node_modules, gulpfile.js, package-lock.json, package.json]
+
+# locale: uk
+
+ampscript:
+  gastring: "?%%=v(@gaString)=%%"
+  emailaddr: "%%emailaddr%%"
+  view-online: "%%view_email_url%%"
+
+# Partner
+# partner:
+#   name: Partner Name
+#   link: "#partner-link"
+#   logo-width: 110
+#   logo-min-width: 90 # mobile & fallback
+

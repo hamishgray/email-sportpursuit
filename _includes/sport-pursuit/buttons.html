@@ -1,0 +1,119 @@
+
+{% include system/helpers.html %}
+
+
+{% assign config       = include.content.config %}
+{% assign items        = include.content.items %}
+{% assign row-gutter   = "30" %}
+{% assign col-gutter   = "30" %}
+{% assign text-align   = "center" %}
+{% assign background   = color.background.box %}
+{% assign theme        = config.theme %}
+{% assign link         = page.page-link %}
+
+{% if config.align %}
+  {% assign text-align = config.align %}
+{% endif %}
+
+{% if config.row-gutter %}
+  {% assign row-gutter = config.row-gutter %}
+{% endif %}
+
+{% if config.col-gutter %}
+  {% assign col-gutter = config.col-gutter %}
+{% endif %}
+
+{% if config.background %}
+  {% assign background = config.background %}
+{% endif %}
+
+
+
+{% for item in items %}
+
+  {% if item.link %}
+    {% assign link = item.link %}
+  {% elsif config.link %}
+    {% assign link = config.link %}
+  {% else %}
+    {% assign link = page.page-link %}
+  {% endif %}
+
+  {% assign width = layout.width.lg | minus: col-gutter | divided_by: 2 %}
+
+  {% capture pos %}{% cycle "one", "two" %}{% endcapture %}
+  {% if pos == "one" and forloop.last %}
+    {% assign align = "center" %}
+  {% elsif pos == "one" %}
+    {% assign align = "left" %}
+  {% elsif pos == "two" %}
+    {% assign align = "right" %}
+  {% endif %}
+
+  {% if pos == 'one' %}
+  <!--[if (gte mso 9)|(IE)]>
+  <table align="center" border="0" cellspacing="0" cellpadding="0" width="{{layout.width.lg}}">
+  <tr>
+  <td align="center" valign="top" width="{{layout.width.lg}}">
+  <![endif]-->
+  <table {{table.inner}}>
+    <tr>
+      <td align="center" style="font-size:0;">
+      <!--[if (gte mso 9)|(IE)]>
+      <table align="{{align}}" border="0" cellspacing="0" cellpadding="0" width="{{layout.width.lg}}">
+      <tr>
+      <td align="center" valign="top" width="{{width}}">
+      <![endif]-->
+  {% endif %}
+
+        <div class="responsive-lg" style="display:inline-block; vertical-align:top; max-width:50%; min-width:{{width}}px; width:100%;">
+        <table {{table.default}} class="responsive-lg" align="{{align}}" width="100%" style="width: 100%; max-width: {{width}}px;">
+          <tr>
+            <td align="center">
+
+              <table {{table.fluid}}>
+                <tr>
+                  <td style="{{spacing.vpad.xs}} {{spacing.hpad.sm}}">
+
+                    <table {{table.fluid}} align="center" style="border-collapse: separate !important; border-spacing: 0;">
+                      <tr>
+                        <td align="center" width="100%" style="color: #ffffff; font-size: 15px; line-height: 15px; background-color: {{button.style.primary.background}}; {{button.style.primary.css}} {{rounded.md}}">
+                          <a href="{{item.link}}" class="button-md" style="{{button.base}} padding-top: 15px; padding-bottom: 15px; padding-left: 15px; padding-right: 15px; text-transform: none; letter-spacing: 0; color: #ffffff;">
+                            {{item.button}}
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+        </div>
+
+        {% if pos == 'one' %}
+        <!--[if (gte mso 9)|(IE)]>
+        </td>
+        <td style="font-size: 1px;" width="{{col-gutter}}"></td>
+        <td align="right" valign="top" width="{{width}}">
+        <![endif]-->
+        {% endif %}
+
+  {% if pos == 'two' or forloop.last %}
+        <!--[if (gte mso 9)|(IE)]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+      </td>
+    </tr>
+  </table>
+  <!--[if (gte mso 9)|(IE)]>
+  </td>
+  </tr>
+  </table>
+  <![endif]-->
+  {% endif %}
+{% endfor %}

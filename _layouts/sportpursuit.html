@@ -1,0 +1,83 @@
+---
+layout: default
+---
+{% include system/helpers.html %}
+
+{% include page/header/super-hero.html content=page.hero %}
+<table {{table.outer}}>
+  <tr>
+    <td align="center" bgcolor="{{color.background.inner}}">
+
+      <!-- First section -->
+      <table {{table.inner}}>
+        <tr>
+          <td align="center">
+            {% include element/title.html title=page.first-title style="xl" %}
+            {% if page.first-paragraph %}
+              {% include element/paragraph.html paragraph=page.first-paragraph %}
+            {% endif %}
+            {% include element/space.html height="30" %}
+          </td>
+        </tr>
+      </table>
+      {% include component/offer-row.html content=page.first-offers %}
+      {% include element/title.html title=page.first-brands-title style="caps" %}
+      {% include element/space.html height="30" %}
+      {% include sport-pursuit/brands.html content=page.first-brands %}
+      {% include element/space.html height="30" %}
+
+      <!-- Second section -->
+      <table {{table.inner}}>
+        <tr>
+          <td align="center">
+            {% include element/title.html title=page.second-title style="xl" %}
+            {% if page.second-paragraph %}
+              {% include element/paragraph.html paragraph=page.second-paragraph %}
+            {% endif %}
+            {% include element/space.html height="30" %}
+          </td>
+        </tr>
+      </table>
+      {% include component/offer-row.html content=page.second-offers %}
+      {% include element/title.html title=page.second-brands-title style="caps" %}
+      {% include element/space.html height="30" %}
+      {% include sport-pursuit/brands.html content=page.second-brands %}
+      {% include element/space.html height="30" %}
+
+      <!-- Third section -->
+      <table {{table.inner}}>
+        <tr>
+          <td align="center">
+            {% include element/title.html title=page.third-title style="xl" %}
+            {% if page.third-paragraph %}
+              {% include element/paragraph.html paragraph=page.third-paragraph %}
+            {% endif %}
+            {% include element/space.html height="30" %}
+          </td>
+        </tr>
+      </table>
+      {% include component/offer-row.html content=page.third-offers %}
+      {% include element/title.html title=page.third-brands-title style="caps" %}
+      {% include element/space.html height="30" %}
+      {% include sport-pursuit/brands.html content=page.third-brands %}
+      {% include element/space.html height="30" %}
+
+      <!-- Products -->
+      {% include element/title.html title=page.products-title style="xl" %}
+      {% include element/paragraph.html paragraph=page.products-paragraph %}
+      {% include element/space.html height="30" %}
+      {% include sport-pursuit/products-three.html content=page.products %}
+      {% include element/space.html height="15" %}
+
+      <!-- Categories -->
+      {% include element/title.html title=page.categories-title style="xl" %}
+      {% include element/space.html height="15" %}
+      {% include sport-pursuit/buttons.html content=page.categories %}
+
+      {% include element/space.html height="45" %}
+
+    </td>
+  </tr>
+</table>
+{% include sport-pursuit/footer.html %}
+{% include page/footer/quicklinks.html %}
