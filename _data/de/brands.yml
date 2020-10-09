@@ -1,5 +1,5 @@
 - id: new-balance
-  link: https://www.sportpursuit.com/products?bid=220&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-NewBalance%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-18&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=220&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-NewBalance%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-16&utm_source=partnership
   image: B..new-balance.jpg
   content:
     - title: New Balance
@@ -11,7 +11,7 @@
       scale: xxs
 
 - id: 2xu
-  link: https://www.sportpursuit.com/products?bid=131&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-2XU%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-17&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=131&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-2XU%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-17&utm_source=partnership
   image: B..2xu.jpg
   content:
     - title: 2XU
@@ -23,7 +23,7 @@
       scale: xxs
 
 - id: marmot
-  link: https://www.sportpursuit.com/products?bid=33&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Marmot%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-13&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=33&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Marmot%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-1&utm_source=partnership
   image: B..marmot.jpg
   content:
     - title: Marmot
@@ -35,7 +35,7 @@
       scale: xxs
 
 - id: salomon
-  link: https://www.sportpursuit.com/products?bid=627&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Salomon%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-12&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=627&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Salomon%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-14&utm_source=partnership
   image: B..salomon.jpg
   content:
     - title: Salomon
@@ -47,7 +47,7 @@
       scale: xxs
 
 - id: mammut
-  link: https://www.sportpursuit.com/products?bid=1961&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Mammut%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-18&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=1961&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Mammut%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-6&utm_source=partnership
   image: B..mammut.jpg
   content:
     - title: Mammut
@@ -59,7 +59,7 @@
       scale: xxs
 
 - id: rab
-  link: https://www.sportpursuit.com/products?bid=923&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Rab%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-17&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=923&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Rab%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-2&utm_source=partnership
   image: B..rab.jpg
   content:
     - title: Rab
@@ -71,7 +71,7 @@
       scale: xxs
 
 - id: smartwool
-  link: https://www.sportpursuit.com/products?bid=60&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Smartwool%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-2&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=60&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Smartwool%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-2&utm_source=partnership
   image: B..smartwool.jpg
   content:
     - title: Smartwool
@@ -83,7 +83,7 @@
       scale: xxs
 
 - id: millican
-  link: https://www.sportpursuit.com/products?bid=2646&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Millican%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-6&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=2646&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Millican%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-12&utm_source=partnership
   image: B..millican.jpg
   content:
     - title: Millican
@@ -95,7 +95,7 @@
       scale: xxs
 
 - id: sherpa
-  link: https://www.sportpursuit.com/products?bid=1085&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Sherpa%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-6&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=1085&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Sherpa%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-6&utm_source=partnership
   image: B..sherpa.jpg
   content:
     - title: Sherpa
@@ -107,7 +107,7 @@
       scale: xxs
 
 - id: oakley
-  link: https://www.sportpursuit.com/products?bid=133&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Oakley%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-7&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=133&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Oakley%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-7&utm_source=partnership
   image: B..oakley.jpg
   content:
     - title: Oakley
@@ -119,7 +119,7 @@
       scale: xxs
 
 - id: sups
-  link: https://www.sportpursuit.com/products?bid=1999%2C2399%2C2011&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-SUPS%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-8&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=1999%2C2399%2C2011&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-SUPS%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-8&utm_source=partnership
   image: B..sups.jpg
   content:
     - title: Stand-Up Paddleboards
@@ -131,7 +131,7 @@
       scale: xxs
 
 - id: oneill
-  link: https://www.sportpursuit.com/products?bid=735&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-ONeill%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-9&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=735&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-ONeill%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-9&utm_source=partnership
   image: B..oneill.jpg
   content:
     - title: O'Neill
@@ -143,7 +143,7 @@
       scale: xxs
 
 - id: j-lindeberg
-  link: https://www.sportpursuit.com/products?bid=1818&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-JLindeberg%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-4&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=1818&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-JLindeberg%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-9&utm_source=partnership
   image: B..j-lindeberg.jpg
   content:
     - title: J.Lindeberg
@@ -155,7 +155,7 @@
       scale: xxs
 
 - id: protest
-  link: https://www.sportpursuit.com/products?bid=1812&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Protest%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-11&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=1812&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Protest%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-11&utm_source=partnership
   image: B..protest.jpg
   content:
     - title: Protest
@@ -167,7 +167,7 @@
       scale: xxs
 
 - id: bodyglove
-  link: https://www.sportpursuit.com/products?bid=32&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-BodyGlove%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-12&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=32&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-BodyGlove%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-12&utm_source=partnership
   image: B..bodyglove.jpg
   content:
     - title: Body Glove
@@ -179,7 +179,7 @@
       scale: xxs
 
 - id: garmin
-  link: https://www.sportpursuit.com/products?bid=95&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Garmin%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-11&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=95&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Garmin%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-18&utm_source=partnership
   image: B..garmin.jpg
   content:
     - title: Garmin
@@ -191,7 +191,7 @@
       scale: xxs
 
 - id: underarmour
-  link: https://www.sportpursuit.com/products?bid=85&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-UnderArmour%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-12&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=85&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-UnderArmour%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-15&utm_source=partnership
   image: B..underarmour.jpg
   content:
     - title: Under Armour
@@ -203,7 +203,7 @@
       scale: xxs
 
 - id: asics
-  link: https://www.sportpursuit.com/products?bid=39&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Asics%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-10&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=39&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Asics%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-13&utm_source=partnership
   image: B..asics.jpg
   content:
     - title: Asics
@@ -215,7 +215,7 @@
       scale: xxs
 
 - id: hunter
-  link: https://www.sportpursuit.com/products?bid=633&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Hunter%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-1&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=633&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Hunter%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-7&utm_source=partnership
   image: B..hunter.jpg
   content:
     - title: Hunter
@@ -227,7 +227,7 @@
       scale: xxs
 
 - id: isobaa
-  link: https://www.sportpursuit.com/products?bid=1512&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Isobaa%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-2&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=1512&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Isobaa%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-11&utm_source=partnership
   image: B..isobaa.jpg
   content:
     - title: Isobaa
@@ -239,7 +239,7 @@
       scale: xxs
 
 - id: musto
-  link: https://www.sportpursuit.com/products?bid=274&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Musto%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-3&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=274&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Musto%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-8&utm_source=partnership
   image: B..musto.jpg
   content:
     - title: Musto
@@ -251,7 +251,7 @@
       scale: xxs
 
 - id: le-chameau
-  link: https://www.sportpursuit.com/products?bid=1896&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-LeChameau%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-5&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=1896&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-LeChameau%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-5&utm_source=partnership
   image: B..le-chameau.jpg
   content:
     - title: Le Chameau
@@ -263,7 +263,7 @@
       scale: xxs
 
 - id: odlo
-  link: https://www.sportpursuit.com/products?bid=130&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Odlo%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-7&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=130&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Odlo%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-17&utm_source=partnership
   image: B..odlo.jpg
   content:
     - title: Odlo
@@ -275,7 +275,7 @@
       scale: xxs
 
 - id: red-bull
-  link: https://www.sportpursuit.com/products?bid=2227&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-RedBullSpect%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-9&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=2227&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-RedBullSpect%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-9&utm_source=partnership
   image: B..red-bull.jpg
   content:
     - title: Red Bull Spect
@@ -287,7 +287,7 @@
       scale: xxs
 
 - id: sigg
-  link: https://www.sportpursuit.com/products?bid=791&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Sigg%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-14&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=791&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Sigg%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-14&utm_source=partnership
   image: B..sigg.jpg
   content:
     - title: Sigg
@@ -299,7 +299,7 @@
       scale: xxs
 
 - id: arcteryx
-  link: https://www.sportpursuit.com/products?bid=919&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Arcteryx%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-15&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=919&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Arcteryx%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-3&utm_source=partnership
   image: B..arcteryx.jpg
   content:
     - title: Arc'teryx
@@ -311,7 +311,7 @@
       scale: xxs
 
 - id: osprey
-  link: https://www.sportpursuit.com/products?bid=670&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Osprey%24s-NoCat%24loc-M%24x-DE_email7_banner%24p-16&utm_source=partnership
+  link: https://www.sportpursuit.com/products?bid=670&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Osprey%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-5&utm_source=partnership
   image: B..osprey.jpg
   content:
     - title: Osprey
@@ -320,4 +320,28 @@
       style: xs
     - space: 0
     - text-link: Bis zu 51% sparen
+      scale: xxs
+
+- id: alpine-pro
+  link: https://www.sportpursuit.com/products?bid=1083&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Alpine Pro%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-4&utm_source=partnership
+  image: B..alpine-pro.jpg
+  content:
+    - title: Alpine Pro
+      style: md
+    - paragraph: Konzentriert sich auf Abenteuer.
+      style: xs
+    - space: 0
+    - text-link: Bis zu 80% sparen
+      scale: xxs
+
+- id: eastpak
+  link: https://www.sportpursuit.com/products?bid=1481&st=Partnership&ad=SecretEscapes&campaign=t-Brand%24b-Eastpak%24s-NoCat%24loc-M%24x-DE_email8_banner%24p-10&utm_source=partnership
+  image: B..eastpak.jpg
+  content:
+    - title: Eastpak
+      style: md
+    - paragraph: Geniale Gepäck- und Reiseartikel.
+      style: xs
+    - space: 0
+    - text-link: Bis zu 67% sparen
       scale: xxs
