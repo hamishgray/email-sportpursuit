@@ -20,9 +20,6 @@ layout: default
           </td>
         </tr>
       </table>
-      {% include component/offer-row.html content=page.first-offers %}
-      {% include element/title.html title=page.first-brands-title style="caps" %}
-      {% include element/space.html height="30" %}
       {% include sport-pursuit/brands.html content=page.first-brands %}
       {% include element/space.html height="30" %}
 
@@ -38,9 +35,6 @@ layout: default
           </td>
         </tr>
       </table>
-      {% include component/offer-row.html content=page.second-offers %}
-      {% include element/title.html title=page.second-brands-title style="caps" %}
-      {% include element/space.html height="30" %}
       {% include sport-pursuit/brands.html content=page.second-brands %}
       {% include element/space.html height="30" %}
 
@@ -56,24 +50,20 @@ layout: default
           </td>
         </tr>
       </table>
-      {% include component/offer-row.html content=page.third-offers %}
-      {% include element/title.html title=page.third-brands-title style="caps" %}
-      {% include element/space.html height="30" %}
       {% include sport-pursuit/brands.html content=page.third-brands %}
       {% include element/space.html height="30" %}
 
       <!-- Products -->
       {% include element/title.html title=page.products-title style="xl" %}
       {% include element/paragraph.html paragraph=page.products-paragraph %}
-      {% include element/space.html height="30" %}
+      {% include element/space.html height="15" %}
       {% include sport-pursuit/products-three.html content=page.products %}
-      {% include element/space.html height="15" %}
+      {% include element/space.html height="30" %}
 
-      <!-- Categories -->
-      {% include element/title.html title=page.categories-title style="xl" %}
+      <!-- SE Offers -->
+      {% include element/title.html title=page.se-offers-title style="xl" %}
       {% include element/space.html height="15" %}
-      {% include sport-pursuit/buttons.html content=page.categories %}
-
+      {% include component/offer-row.html content=page.se-offers %}
       {% include element/space.html height="45" %}
 
     </td>
