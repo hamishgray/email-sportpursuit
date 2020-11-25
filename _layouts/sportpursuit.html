@@ -14,6 +14,7 @@ layout: default
           <td align="center">
             {% include element/title.html title=page.first-title style="xl" %}
             {% if page.first-paragraph %}
+              {% include element/space.html height="8" %}
               {% include element/paragraph.html paragraph=page.first-paragraph %}
             {% endif %}
             {% include element/space.html height="30" %}
@@ -29,6 +30,7 @@ layout: default
           <td align="center">
             {% include element/title.html title=page.second-title style="xl" %}
             {% if page.second-paragraph %}
+              {% include element/space.html height="8" %}
               {% include element/paragraph.html paragraph=page.second-paragraph %}
             {% endif %}
             {% include element/space.html height="30" %}
@@ -44,6 +46,7 @@ layout: default
           <td align="center">
             {% include element/title.html title=page.third-title style="xl" %}
             {% if page.third-paragraph %}
+              {% include element/space.html height="8" %}
               {% include element/paragraph.html paragraph=page.third-paragraph %}
             {% endif %}
             {% include element/space.html height="30" %}
@@ -62,8 +65,8 @@ layout: default
 
       <!-- SE Offers -->
       {% include element/title.html title=page.se-offers-title style="xl" %}
-      {% include element/space.html height="15" %}
-      {% include component/offer-row.html content=page.se-offers %}
+      {% include element/space.html height="30" %}
+      {% include component/offer-one-col.html content=page.se-offers %}
       {% include element/space.html height="45" %}
 
     </td>

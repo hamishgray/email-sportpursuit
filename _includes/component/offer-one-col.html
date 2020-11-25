@@ -45,6 +45,7 @@
                 <tr>
                   <td align="center">
                     <!-- Top -->
+                    {% if item.expires %}
                     <table {{table.fluid}} height="45">
                       <tr>
                         <td width="{{spacing.sm}}"></td>
@@ -53,11 +54,14 @@
                         </td>
                       </tr>
                     </table>
+                    {% endif %}
                     <!-- Link -->
-                    {% if has-attribute %}
+                    {% if has-attribute and item.expires %}
                       {% assign link-height = image-height | minus: 90 %}
-                    {% else %}
+                    {% elsif item.expires %}
                       {% assign link-height = image-height | minus: 45 %}
+                    {% else %}
+                      {% assign link-height = image-height %}
                     {% endif %}
                     <table class="offer-image__link" {{table.fluid}} height="{{link-height}}">
                       <tr>
